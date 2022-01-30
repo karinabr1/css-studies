@@ -1,0 +1,18 @@
+body,ul,li,p {
+	margin:  0px;
+	padding: 0px;
+	list-style: none;
+	list-style: none;
+	font-size: 1.2rem;
+	font-family: Arial;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+body {
+	margin-bottom: 100px;
+}
